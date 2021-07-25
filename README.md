@@ -30,3 +30,16 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
 
 The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
+
+## Resources
+1. [AWS Security Solution for Ransomware](https://github.com/MattN-HB/aws-security-assessment-solution)
+2. [Config Rules](https://github.com/MattN-HB/aws-config-rules) For example use 800-53 for Dod
+3. [Fed Resources](https://github.com/MattN-HB/DoD-Federal-Government-Cloud-Computing-Resources/blob/main/DoD%20%26%20Fed%20Cloud%20Resources.md)
+4. [How to Secure anything](https://github.com/veeral-patel/how-to-secure-anything)
+5. [Pentesting Tools](https://github.com/MattN-HB/pentest-tools)
+6. [OSINT Framework](https://github.com/lockfale/OSINT-Framework)
+7. [Instagram Scraper](https://github.com/arc298/instagram-scraper)
+8. [Twitter Scraper](https://github.com/bisguzar/twitter-scraper)
+9. [LinkedIn Scraper](https://github.com/joeyism/linkedin_scraper)
+10. [Ghunt](https://github.com/mxrch/GHunt)
+11. [Shodan Python](https://github.com/achillean/shodan-python)
