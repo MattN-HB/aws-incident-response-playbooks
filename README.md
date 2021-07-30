@@ -44,3 +44,4 @@ The sample code within this documentation is made available under the MIT-0 lice
 10. [LinkedIn Scraper](https://github.com/joeyism/linkedin_scraper)
 11. [Ghunt](https://github.com/mxrch/GHunt)
 12. [Shodan Python](https://github.com/achillean/shodan-python)
+13. [Security Instrinsic](https://checkmarx.com/resources/homepage-resources-english/making-security-intrinsic-in-your-aws-cloud-deployment)
