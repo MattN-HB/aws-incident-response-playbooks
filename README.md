@@ -46,3 +46,5 @@ The sample code within this documentation is made available under the MIT-0 lice
 12. [Shodan Python](https://github.com/achillean/shodan-python)
 13. [Security Instrinsic](https://checkmarx.com/resources/homepage-resources-english/making-security-intrinsic-in-your-aws-cloud-deployment)
 14. [Kubestriker auditing tool](Https://github.com/vchinnipilli/kubestriker)
+15. [AWS exposable resources](https://github.com/MattN-HB/aws_exposable_resources)
+16. [Pmapper for IAM](https://github.com/nccgroup/PMapper/wiki)
