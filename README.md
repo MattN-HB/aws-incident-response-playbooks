@@ -48,3 +48,4 @@ The sample code within this documentation is made available under the MIT-0 lice
 14. [Kubestriker auditing tool](Https://github.com/vchinnipilli/kubestriker)
 15. [AWS exposable resources](https://github.com/MattN-HB/aws_exposable_resources)
 16. [Pmapper for IAM](https://github.com/nccgroup/PMapper/wiki)
+17. [Security reference cloud formation](https://github.com/aws-samples/aws-security-reference-architecture-examples)
