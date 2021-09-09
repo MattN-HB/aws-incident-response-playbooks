@@ -50,3 +50,4 @@ The sample code within this documentation is made available under the MIT-0 lice
 16. [Pmapper for IAM](https://github.com/nccgroup/PMapper/wiki)
 17. [Security reference cloud formation](https://github.com/aws-samples/aws-security-reference-architecture-examples)
 18. [S3 best practices](https://aws.amazon.com/blogs/security/top-10-security-best-practices-for-securing-data-in-amazon-s3/)
+19. [AWS::WAFv2::LoggingConfiguration](http://go.pardot.com/e/736593/aws-wafv2-loggingconfiguration/p4w3k/391845340?h=_kn-3fng7AlXKlrCzjsl9s4IvV62EVMXtt8MvCEmqK8) resource enables customers to provision, import, detect drift of WAFv2 WebACL Logging Configurations natively without having to use custom AWS Config Rules, AWS Systems Manager Automation Documents, and Lambda Functions.
